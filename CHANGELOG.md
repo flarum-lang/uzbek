@@ -7,6 +7,7 @@ CHANGELOG
 
 **Added support for new extensions**:
 
+* [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views)
 * [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog)
 
 
