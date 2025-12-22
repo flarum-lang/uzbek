@@ -8,6 +8,7 @@ CHANGELOG
 **Added support for new extensions**:
 
 * [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views)
+* [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings)
 * [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog)
 
 
