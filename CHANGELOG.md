@@ -2,6 +2,25 @@ CHANGELOG
 =========
 
 
+1.0.0 (XXXX-XX-XX)
+------------------
+
+**Added support for new extensions**:
+
+* [`fof/discussion-templates`](https://github.com/FriendsOfFlarum/discussion-templates)
+* [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views)
+* [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings)
+* [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog)
+
+
+**Updated translations for extensions**:
+
+* [`clarkwinkelmann/catch-the-fish`](https://github.com/clarkwinkelmann/catch-the-fish)
+
+
+All changes: [0.1.3...1.0.0](https://github.com/flarum-lang/uzbek/compare/0.1.3...1.0.0).
+
+
 0.1.3 (2022-08-30)
 ------------------
 
