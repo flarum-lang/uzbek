@@ -47,6 +47,7 @@ CHANGELOG
 * [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth)
 * [`fof/pages`](https://github.com/FriendsOfFlarum/pages)
 * [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
+* [`fof/recaptcha`](https://github.com/FriendsOfFlarum/recaptcha)
 * [`fof/share-social`](https://github.com/FriendsOfFlarum/share-social)
 * [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
 * [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox)
@@ -127,7 +128,6 @@ CHANGELOG
 * [`fof/amazon-affiliation`](https://github.com/FriendsOfFlarum/amazon-affiliation)
 * [`fof/custom-footer`](https://github.com/FriendsOfFlarum/custom-footer)
 * [`fof/discussion-language`](https://github.com/FriendsOfFlarum/discussion-language)
-* [`fof/recaptcha`](https://github.com/FriendsOfFlarum/recaptcha)
 * [`justoverclock/flarum-ext-infocards`](https://github.com/justoverclockl/flarum-ext-infocards)
 * `kilowhat-formulaire`
 * [`malago/flarum-achievements`](https://github.com/malago86/flarum-achievements)
