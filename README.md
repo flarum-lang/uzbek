@@ -77,6 +77,7 @@ php flarum cache:clear
 | [`fof/amazon-affiliation`](https://github.com/FriendsOfFlarum/amazon-affiliation) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-amazon-affiliation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-amazon-affiliation/uz/) |
 | [`fof/analytics`](https://github.com/FriendsOfFlarum/analytics) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-analytics/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-analytics/uz/) |
 | [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-best-answer/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-best-answer/uz/) |
+| [`fof/blog`](https://github.com/FriendsOfFlarum/blog) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-blog/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-blog/uz/) |
 | [`fof/custom-footer`](https://github.com/FriendsOfFlarum/custom-footer) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-custom-footer/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-custom-footer/uz/) |
 | [`fof/default-group`](https://github.com/FriendsOfFlarum/default-group) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-default-group/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-default-group/uz/) |
 | [`fof/discussion-language`](https://github.com/FriendsOfFlarum/discussion-language) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-discussion-language/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-discussion-language/uz/) |
@@ -157,7 +158,6 @@ php flarum cache:clear
 | [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/justoverclock-welcomebox/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/justoverclock-welcomebox/uz/) |
 | [`nearata/flarum-ext-tags-color-generator`](https://github.com/Nearata/flarum-ext-tags-color-generator) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/nearata-tags-color-generator/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/nearata-tags-color-generator/uz/) |
 | [`nyu8/flarum-email-filter`](https://github.com/nyu8/flarum-email-filter) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/nyu8-email-filter/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/nyu8-email-filter/uz/) |
-| [`v17development/flarum-blog`](https://github.com/FriendsOfFlarum/blog) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/v17development-blog/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-blog/uz/) |
 
 <!-- various-extensions-list-stop -->
 
