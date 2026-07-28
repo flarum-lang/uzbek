@@ -135,7 +135,7 @@ CHANGELOG
 * [`nearata/flarum-ext-tags-color-generator`](https://github.com/Nearata/flarum-ext-tags-color-generator)
 * [`nyu8/flarum-email-filter`](https://github.com/nyu8/flarum-email-filter)
 * `v17development-support`
-* `zerosonesfun-bbcode-button`
+* [`zerosonesfun/flarum-bbcode-button`](https://github.com/zerosonesfun/flarum-bbcode-button)
 
 
 All changes: [0.1.3...2.0.0](https://github.com/flarum-lang/uzbek/compare/0.1.3...2.0.0).
