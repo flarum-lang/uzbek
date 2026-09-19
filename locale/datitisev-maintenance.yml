@@ -15,7 +15,7 @@ datitisev-maintenance:
       allow_bypass_maintenance_label: 'Bypass xizmat ko''rsatish rejimi (sozlama yoqilgan bo''lishi kerak)'
     settings:
       active_label: 'Xizmat rejimi holati'
-      allow_bypass_hint: 'JBga kirish imkoni bo''lmasa, chetlab o''tmaydi. Forum va API uchun amal qiladi (agar API <code>config.php< orqali toʻliq oʻchirilgan boʻlmasa).'
+      allow_bypass_hint: 'JBga kirish imkoni bo''lmasa, chetlab o''tmaydi. Forum va API uchun amal qiladi (agar API <code>config.php</code> orqali toʻliq oʻchirilgan boʻlmasa).'
       allow_bypass_label: 'Ruxsat yordamida forum va API xizmatini chetlab o''tishga ruxsat bering'
       disable_admin_label: 'Administratorga kirishni taqiqlash'
       disable_api_label: 'Barcha API kirishlarini o''chirib qo''yish'

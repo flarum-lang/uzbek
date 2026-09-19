@@ -33,7 +33,7 @@ clarkwinkelmann-featured-discussions:
       schedule: 'Xususiyatlar jadvali'
     post:
       auto: (avto)
-      scheduled: '{from} dan {util} gacha ko‘rsatilishi rejalashtirilgan'
+      scheduled: '{from} dan {until} gacha ko‘rsatilishi rejalashtirilgan'
       unscheduled: 'Endi namoyish qilish rejalashtirilmagan'
     schedule:
       custom: Maxsus

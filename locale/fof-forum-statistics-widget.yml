@@ -15,8 +15,8 @@ fof-forum-statistics-widget:
       widget_order_label: 'Vidjet tartibi'
   forum:
     navbar:
-      discussions_count: 'Muhokamalar: {Muhoakamalar soni}'
+      discussions_count: 'Muhokamalar: {discussionsCount}'
       latest_member: 'Eng so''nggi a''zo '
-      posts_count: 'Postlar: {postlar soni}'
-      users_count: 'A''zolar: {foydalanuvchilar soni}'
+      posts_count: 'Postlar: {postsCount}'
+      users_count: 'A''zolar: {usersCount}'
       widget_title: 'Forum statistikasi'

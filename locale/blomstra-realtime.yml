@@ -8,7 +8,7 @@ blomstra-realtime:
       view-who-types: 'Kim yozayotganini ko''ring'
   forum:
     push:
-      discussion-list-new-activity: '{hisob, koʻplik, bitta {# yangilangan muhokamani koʻrsatish} boshqa {# ta yangilangan muhokamani koʻrsatish}}'
+      discussion-list-new-activity: '{count, plural, one {# yangilangan muhokamani koʻrsatish} other {# ta yangilangan muhokamani koʻrsatish}}'
     typing-indicator:
       no-activity: 'Hech kim yozmayapti'
-      people-are-typing: '{son, koʻplik, bitta {# kishi yozmoqda} boshqa {# kishi yozmoqda}}'
+      people-are-typing: '{number, plural, one {# kishi yozmoqda} other {# kishi yozmoqda}}'

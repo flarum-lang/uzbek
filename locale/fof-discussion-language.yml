@@ -20,7 +20,7 @@ fof-discussion-language:
       validation_error: 'Muhokama tilini tanlashingiz kerak.'
   forum:
     change_language:
-      edit_title: '{sarlavha} uchun tahrirlash tili'
+      edit_title: '{title} uchun tahrirlash tili'
       submit_button: '=> core.ref.save_changes'
       title: 'Tahrirlash tili'
     composer_discussion:

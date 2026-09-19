@@ -43,7 +43,7 @@ kilowhat-formulaire:
     file-already-belongs-submission: '{id} fayli boshqa yuborilgan faylga tegishli'
     formatter-parsing-error: 'Kontentni tahlil qilib bo‘lmadi: {message}'
     not-allowed-to-fill-field: 'Ushbu maydon qiymatini o''zgartirishga ruxsat berilmagan'
-    unauthorized-form: 'Shakl identifikatorini (id}) to‘ldirish uchun sizda zarur ruxsatlar yo‘q'
+    unauthorized-form: 'Shakl identifikatorini ({id}) to‘ldirish uchun sizda zarur ruxsatlar yo‘q'
     unknown-form: 'Noma''lum shakl identifikatori {id}'
   forum:
     auto-discussion-options-modal:

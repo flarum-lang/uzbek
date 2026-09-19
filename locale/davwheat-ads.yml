@@ -11,7 +11,7 @@ davwheat:
           fix_errors: 'Oʻzgarishlarni saqlashdan oldin yuqoridagi xatolarni tuzating'
         allow_after_placeholder: 'Xabarlar orasida: javobdan keyin reklamani ko''rsatish'
         between_posts_gap: 'Xabarlar orasidagi: reklamalar orasidagi bo''shliq'
-        code_input: '"{for}" reklama birligi uchun kod'
+        code_input: 'HTML kodi'
         code_input_disabled: 'HTML kodini tahrirlash uchun ushbu joylashuvni yoqing.'
         enabled_locations: 'Reklama birligining joylashuvi yoqilgan'
         pub_id: 'AdSense nashriyot identifikatori'

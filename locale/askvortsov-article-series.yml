@@ -8,7 +8,7 @@ askvortsov-article-series:
       is_article_series: 'Maqolalar seriyasimi?'
   forum:
     article_list:
-      title: '{seriya} Maqolalar turkumi'
+      title: '{series} Maqolalar turkumi'
     article_series_modal:
       order_label: 'Buyurtma indeksi (o''sish bo''yicha tartiblangan)'
       submit_button: Kiritish
