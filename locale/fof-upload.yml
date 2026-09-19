@@ -108,4 +108,4 @@ fof-upload:
       loading: Yuklanmoqda
       unauthorized: 'Fayllarni yuklab olishingizga ruxsat berilmagan'
     validation:
-      max_size: '{maksimal} kb dan ortiq yuklamalar qabul qilinmaydi.'
+      max_size: '{max} kb dan ortiq yuklamalar qabul qilinmaydi.'
