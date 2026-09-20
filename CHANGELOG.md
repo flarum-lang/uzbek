@@ -7,8 +7,8 @@ CHANGELOG
 
 **General changes**:
 
-* Removed outdated Flarum core translations (version `2.0` or higher is supported).
-* Removed outdated validation translations (version `2.0` or higher is supported).
+* Updated Flarum core translations (26 removed).
+* Updated validation translations (75 removed).
 
 
 **Added support for new extensions**:
@@ -19,41 +19,25 @@ CHANGELOG
 * [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings)
 
 
-**Updated and/or removed outdated translations for extensions**:
+**Updated translations for extensions**:
 
-* [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache)
-* [`acpl/my-tags`](https://github.com/android-com-pl/my-tags)
-* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
-* [`datitisev/flarum-backup`](https://flarum.org/extension/datitisev/flarum-backup)
-* [`flarum/akismet`](https://github.com/flarum/akismet)
-* [`flarum/approval`](https://github.com/flarum/approval)
-* [`flarum/emoji`](https://github.com/flarum/emoji)
-* [`flarum/flags`](https://github.com/flarum/flags)
-* [`flarum/likes`](https://github.com/flarum/likes)
-* [`flarum/lock`](https://github.com/flarum/lock)
-* [`flarum/mentions`](https://github.com/flarum/mentions)
-* [`flarum/nicknames`](https://github.com/flarum/nicknames)
-* [`flarum/pusher`](https://github.com/flarum/pusher)
-* [`flarum/statistics`](https://github.com/flarum/statistics)
-* [`flarum/sticky`](https://github.com/flarum/sticky)
-* [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
-* [`flarum/suspend`](https://github.com/flarum/suspend)
-* [`flarum/tags`](https://github.com/flarum/tags)
-* [`fof/amazon-affiliation`](https://github.com/FriendsOfFlarum/amazon-affiliation)
-* [`fof/analytics`](https://github.com/FriendsOfFlarum/analytics)
-* [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer)
-* [`fof/default-group`](https://github.com/FriendsOfFlarum/default-group)
-* [`fof/formatting`](https://github.com/FriendsOfFlarum/formatting)
-* [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget)
-* [`fof/gamification`](https://github.com/FriendsOfFlarum/gamification)
-* [`fof/links`](https://github.com/FriendsOfFlarum/links)
-* [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth)
-* [`fof/pages`](https://github.com/FriendsOfFlarum/pages)
-* [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
-* [`fof/recaptcha`](https://github.com/FriendsOfFlarum/recaptcha)
-* [`fof/share-social`](https://github.com/FriendsOfFlarum/share-social)
-* [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
-* [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox)
+* [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache) (1 removed)
+* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money) (2 removed)
+* [`datitisev/flarum-backup`](https://flarum.org/extension/datitisev/flarum-backup) (32 removed)
+* [`flarum/mentions`](https://github.com/flarum/mentions) (2 removed)
+* [`flarum/pusher`](https://github.com/flarum/pusher) (1 changed)
+* [`flarum/statistics`](https://github.com/flarum/statistics) (1 removed)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions) (1 removed)
+* [`flarum/tags`](https://github.com/flarum/tags) (1 changed, 3 removed)
+* [`fof/amazon-affiliation`](https://github.com/FriendsOfFlarum/amazon-affiliation) (2 removed)
+* [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer) (5 removed)
+* [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget) (3 changed, 2 removed)
+* [`fof/gamification`](https://github.com/FriendsOfFlarum/gamification) (2 removed)
+* [`fof/links`](https://github.com/FriendsOfFlarum/links) (4 removed)
+* [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth) (1 changed)
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls) (1 changed)
+* [`fof/recaptcha`](https://github.com/FriendsOfFlarum/recaptcha) (1 removed)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload) (1 changed, 15 removed)
 
 
 **Removed support for outdated extensions**:
