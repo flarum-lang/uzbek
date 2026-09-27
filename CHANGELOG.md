@@ -13,31 +13,31 @@ CHANGELOG
 
 **Added support for new extensions**:
 
-* [`fof/blog`](https://github.com/FriendsOfFlarum/blog)
-* [`fof/discussion-templates`](https://github.com/FriendsOfFlarum/discussion-templates)
-* [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views)
-* [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings)
+* [`fof/blog`](https://github.com/FriendsOfFlarum/blog) (83% complete)
+* [`fof/discussion-templates`](https://github.com/FriendsOfFlarum/discussion-templates) (100% complete)
+* [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views) (37% complete)
+* [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings) (81% complete)
 
 
 **Updated translations for extensions**:
 
-* [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache) (1 removed)
-* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money) (2 removed)
-* [`datitisev/flarum-backup`](https://flarum.org/extension/datitisev/flarum-backup) (32 removed)
-* [`flarum/mentions`](https://github.com/flarum/mentions) (2 removed)
-* [`flarum/pusher`](https://github.com/flarum/pusher) (1 changed)
-* [`flarum/statistics`](https://github.com/flarum/statistics) (1 removed)
-* [`flarum/subscriptions`](https://github.com/flarum/subscriptions) (1 removed)
-* [`flarum/tags`](https://github.com/flarum/tags) (1 changed, 3 removed)
-* [`fof/amazon-affiliation`](https://github.com/FriendsOfFlarum/amazon-affiliation) (2 removed)
-* [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer) (5 removed)
-* [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget) (3 changed, 2 removed)
-* [`fof/gamification`](https://github.com/FriendsOfFlarum/gamification) (2 removed)
-* [`fof/links`](https://github.com/FriendsOfFlarum/links) (4 removed)
-* [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth) (1 changed)
-* [`fof/polls`](https://github.com/FriendsOfFlarum/polls) (1 changed)
-* [`fof/recaptcha`](https://github.com/FriendsOfFlarum/recaptcha) (1 removed)
-* [`fof/upload`](https://github.com/FriendsOfFlarum/upload) (1 changed, 15 removed)
+* [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache) (1 removed, 31% complete)
+* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money) (2 removed, 45% complete)
+* [`datitisev/flarum-backup`](https://flarum.org/extension/datitisev/flarum-backup) (32 removed, 52% complete)
+* [`flarum/mentions`](https://github.com/flarum/mentions) (2 removed, 54% complete)
+* [`flarum/pusher`](https://github.com/flarum/pusher) (1 changed, 50% complete)
+* [`flarum/statistics`](https://github.com/flarum/statistics) (1 removed, 32% complete)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions) (1 removed, 79% complete)
+* [`flarum/tags`](https://github.com/flarum/tags) (1 changed, 3 removed, 69% complete)
+* [`fof/amazon-affiliation`](https://github.com/FriendsOfFlarum/amazon-affiliation) (2 removed, 66% complete)
+* [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer) (5 removed, 68% complete)
+* [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget) (3 changed, 2 removed, 62% complete)
+* [`fof/gamification`](https://github.com/FriendsOfFlarum/gamification) (2 removed, 77% complete)
+* [`fof/links`](https://github.com/FriendsOfFlarum/links) (4 removed, 29% complete)
+* [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth) (1 changed, 63% complete)
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls) (1 changed, 18% complete)
+* [`fof/recaptcha`](https://github.com/FriendsOfFlarum/recaptcha) (1 removed, 21% complete)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload) (1 changed, 15 removed, 33% complete)
 
 
 **Removed support for outdated extensions**:
