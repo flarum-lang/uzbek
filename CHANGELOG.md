@@ -31,7 +31,7 @@ CHANGELOG
 * [`flarum/tags`](https://github.com/flarum/tags) (3 changed, 74% complete)
 * [`fof/discussion-language`](https://github.com/FriendsOfFlarum/discussion-language) (1 changed, 78% complete)
 * [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget) (3 changed, 62% complete)
-* [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth) (1 changed, 65% complete)
+* [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth) (1 changed, 63% complete)
 * [`fof/polls`](https://github.com/FriendsOfFlarum/polls) (1 changed, 19% complete)
 * [`fof/upload`](https://github.com/FriendsOfFlarum/upload) (5 changed, 50% complete)
 * [`kilowhat/flarum-ext-formulaire`](https://flarum.org/extension/kilowhat/flarum-ext-formulaire) (1 changed, 74% complete)
