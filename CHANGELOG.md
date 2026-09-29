@@ -34,7 +34,7 @@ CHANGELOG
 * [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget) (3 changed, 2 removed, 62% complete)
 * [`fof/gamification`](https://github.com/FriendsOfFlarum/gamification) (2 removed, 77% complete)
 * [`fof/links`](https://github.com/FriendsOfFlarum/links) (4 removed, 29% complete)
-* [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth) (1 changed, 63% complete)
+* [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth) (1 changed, 60% complete)
 * [`fof/polls`](https://github.com/FriendsOfFlarum/polls) (1 changed, 18% complete)
 * [`fof/recaptcha`](https://github.com/FriendsOfFlarum/recaptcha) (1 removed, 21% complete)
 * [`fof/upload`](https://github.com/FriendsOfFlarum/upload) (1 changed, 15 removed, 33% complete)
