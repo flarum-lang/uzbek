@@ -106,6 +106,8 @@ php flarum cache:clear
 | [`acpl/my-tags`](https://github.com/android-com-pl/my-tags) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/uz/acpl-my-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/acpl-my-tags/uz/) |
 | [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/uz/antoinefr-money/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/antoinefr-money/uz/) |
 | [`clarkwinkelmann/flarum-ext-likes-received`](https://github.com/clarkwinkelmann/flarum-ext-likes-received) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/uz/clarkwinkelmann-likes-received/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/clarkwinkelmann-likes-received/uz/) |
+| [`clarkwinkelmann/flarum-ext-popular-discussion-badge`](https://github.com/clarkwinkelmann/flarum-ext-popular-discussion-badge) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/uz/clarkwinkelmann-popular-discussion-badge/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/clarkwinkelmann-popular-discussion-badge/uz/) |
+| [`clarkwinkelmann/flarum-ext-who-read`](https://github.com/clarkwinkelmann/flarum-ext-who-read) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/uz/clarkwinkelmann-who-read/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/clarkwinkelmann-who-read/uz/) |
 | [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/uz/justoverclock-welcomebox/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/justoverclock-welcomebox/uz/) |
 
 <!-- various-extensions-list-stop -->
