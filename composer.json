@@ -1,30 +1,20 @@
 {
 	"name": "flarum-lang/uzbek",
+	"description": "Uzbek Language Pack for Flarum",
 	"type": "flarum-extension",
-	"description": "Uzbekistan language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/uzbek",
 	"keywords": [
-		"locale",
-		"flarum",
-		"uzbek-locale"
+		"flarum-locale"
 	],
+	"homepage": "https://github.com/flarum-lang/uzbek",
 	"license": "MIT",
-	"authors": [
-		{
-			"name": "RoboticsWare",
-			"email": "neopia.uz@gmail.com",
-			"homepage": "https://roboticsware.uz/"
-		}
-	],
 	"support": {
 		"issues": "https://github.com/flarum-lang/uzbek/issues",
+		"forum": "https://discuss.flarum.org/d/40223",
 		"source": "https://github.com/flarum-lang/uzbek"
 	},
 	"require": {
 		"flarum/core": "^2.0"
 	},
-	"minimum-stability": "dev",
-	"prefer-stable": true,
 	"extra": {
 		"flarum-extension": {
 			"title": "Uzbek",
@@ -37,13 +27,7 @@
 		},
 		"flarum-locale": {
 			"code": "uzb",
-			"title": "O'zbek"
-		},
-		"extiverse": {
-			"discuss": ""
-		},
-		"branch-alias": {
-			"dev-master": "1.x-dev"
+			"title": "Oʻzbek"
 		}
 	}
 }
